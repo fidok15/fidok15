@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <a href="https://www.youtube.com/c/fidok15"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/eZdRx7S.png"/></a>
+    <a href="https://www.youtube.com/@fidok15"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/eZdRx7S.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.instagram.com/_fidok_/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/hIhkcVm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
