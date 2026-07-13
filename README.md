@@ -11,7 +11,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.instagram.com/_fidok_/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/hIhkcVm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.linkedin.com/in/adam-korwin-a6a1a1343/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/jh6hiQe.png"/></a>
+    <a href="https://www.linkedin.com/in/adam-korwin/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/jh6hiQe.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://discord.com/users/390594145196048406"><img width="32px" alt="Discord" title="Discord" src="https://i.imgur.com/nS3Laa5.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -20,52 +20,18 @@
 <hr />
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fidok15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fidok15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.shion.dev/api?username=fidok15&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" alt="stats graph" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=fidok15&theme=blueberry&hide_border=false" alt="streak graph" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fidok15&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="languages graph" />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fidok15/fidok15/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fidok15/fidok15/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fidok15/fidok15/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
