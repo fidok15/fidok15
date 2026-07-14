@@ -17,7 +17,14 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </div>
 
-<hr />
+<div align="center">
+  <a href="https://github.com/fidok15/fidok15">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fidok15/fidok15/main/profile-dark.svg">
+      <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/fidok15/fidok15/main/profile-light.svg">
+    </picture>
+  </a>
+</div>
 
 <br clear="both">
 <div data-importer="border">
