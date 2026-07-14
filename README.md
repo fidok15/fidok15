@@ -7,6 +7,17 @@
 </div>
 
 <div align="center">
+  <a href="https://github.com/fidok15/fidok15">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fidok15/fidok15/main/profile-dark.svg">
+      <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/fidok15/fidok15/main/profile-light.svg">
+    </picture>
+  </a>
+</div>
+
+<br />
+
+<div align="center">
     <a href="https://www.youtube.com/@fidok15"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/eZdRx7S.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.instagram.com/_fidok_/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/hIhkcVm.png"/></a>
@@ -15,15 +26,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://discord.com/users/390594145196048406"><img width="32px" alt="Discord" title="Discord" src="https://i.imgur.com/nS3Laa5.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-</div>
-
-<div align="center">
-  <a href="https://github.com/fidok15/fidok15">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fidok15/fidok15/main/profile-dark.svg">
-      <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/fidok15/fidok15/main/profile-light.svg">
-    </picture>
-  </a>
 </div>
 
 <br clear="both">
